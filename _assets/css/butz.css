@@ -15,6 +15,7 @@ body
 	font-family: "Iowan Old Style", "Palatino Linotype", "URW Palladio L", P052, serif;
 }
 
+caption { text-align: center; }
 dt, dd { font-size: 16px; }
 dl { margin-left: 50%; }
 h1, h2, h3, h4, h5, h6, .breadcrumb, .lead, .navigation, .panel-heading { font-family: Seravek, "Gill Sans Nova", Ubuntu, Calibri, "DejaVu Sans", source-sans-pro, sans-serif; }
