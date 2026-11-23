@@ -4,7 +4,7 @@ https://art-butz.netlify.app/*  https://art-butz.historiography-project.com/:spl
 
 # redirect from old locations to new locations
 
-/hoax/*	/book/:splat 301
+/book/*	/hoax/:splat 301
 /pubweb/*	/website/:splat 301
 
 # redirect site icons
